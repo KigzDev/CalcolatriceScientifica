@@ -18,32 +18,32 @@ Divisione tra due numeri
 ### 5. Modulo
 Resto della divisione tra due numeri
 
-### 6. Radice Quadrata
-Radice quadrata di un numero
+### 6. sqrt()
+Calcola la radice quadrata di un numero
 
-### 7. Radice Cubica
-Radice cubica di un numero
+### 7. cbrt()
+Calcola la radice cubica di un numero
 
-### 8. Arrotondamento per eccesso
-Arrotondamento per eccesso di un numero in virgola mobile
+### 8. ceil()
+Arrotonda un numero per eccesso
 
-### 9. Arrotondamento per difetto
-Arrotondamento per difetto di un numero in virgola mobile
+### 9. floor()
+Arrotonda un numero per difetto
 
-### 10. Arrotondamento a numero vicino
-Arrotondamento al numero piu' vicino del numero inserito
+### 10. round()
+Arrotonda un numero all'intero più vicino
 
-### 11. Valore assoluto
-Valore assoluto di un numero
+### 11. abs()
+Calcola il valore assoluto di un numero intero
 
-### 12. Potenza
-Elevazione di un numero all'esponente inserito
+### 12. pow()
+Eleva un numero all'esponente inserito
 
-### 13. Seno
-Seno dell'angolo in radianti
+### 13. sin()
+Calcola il seno dell'angolo in radianti
 
-### 14. Coseno
-Coseno dell'angolo in radianti
+### 14. coseno()
+Calcola il coseno dell'angolo in radianti
 
-### 15. Tangente
-Tangente dell'angolo in radianti
+### 15. tangente()
+Calcola la tangente dell'angolo in radianti
