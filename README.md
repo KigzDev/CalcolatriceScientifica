@@ -42,8 +42,8 @@ Eleva un numero all'esponente inserito
 ### 13. sin()
 Calcola il seno dell'angolo in radianti
 
-### 14. coseno()
+### 14. cos()
 Calcola il coseno dell'angolo in radianti
 
-### 15. tangente()
+### 15. tan()
 Calcola la tangente dell'angolo in radianti
